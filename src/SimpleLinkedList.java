@@ -7,7 +7,7 @@ class Node
 Node next;
 int data;
 }
-
+//this is change test
 class Operations
 {
 static int count=0;	
